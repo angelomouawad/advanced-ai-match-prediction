@@ -33,3 +33,6 @@ matplotlib
 
 # Web app
 flask
+
+# Environment variable loading
+python-dotenv

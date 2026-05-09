@@ -5,6 +5,8 @@ import numpy as np
 import pandas as pd
 import pickle
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 app = Flask(__name__, static_folder="templates")
 
