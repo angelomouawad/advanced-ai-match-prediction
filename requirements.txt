@@ -1,0 +1,27 @@
+# Core data
+pandas
+numpy
+ 
+# CSV and file utilities
+glob2
+ 
+# Async for Understat xG fetching
+nest_asyncio
+aiohttp
+understat
+ 
+# Progress bars
+tqdm
+ 
+# News fetching
+requests
+newsapi-python
+ 
+# HuggingFace sentiment model
+transformers
+torch
+ 
+# Jupyter
+notebook
+ipykernel
+ 
