@@ -1,10 +1,10 @@
-# ⚽ Premier League Match Predictor
+# Premier League Match Predictor
 
 > An AI-powered football match outcome predictor combining a PyTorch neural network, xG data, and NLP sentiment analysis to predict Premier League results.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project predicts the outcome of Premier League matches (Home Win / Draw / Away Win) using a hybrid AI pipeline:
 
@@ -17,7 +17,7 @@ The project is presented through a Flask web application where you can select an
 
 ---
 
-## 🧠 AI Architecture
+## AI Architecture
 
 ```
 Pre-match news (Guardian API)
@@ -45,7 +45,7 @@ Prediction: Home Win / Draw / Away Win
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 VSC - Project/
@@ -73,7 +73,7 @@ VSC - Project/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Create a virtual environment
 
@@ -135,7 +135,7 @@ Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 | Source | Data | Coverage |
 |--------|------|----------|
@@ -145,7 +145,7 @@ Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 🔑 API Keys Required
+## API Keys Required
 
 | API | Purpose | Free Tier | Sign Up |
 |-----|---------|-----------|---------|
@@ -153,7 +153,7 @@ Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 📈 Model Details
+## Model Details
 
 - **Algorithm:** Multi-Layer Perceptron (PyTorch)
 - **Input features:** 11 (9 without sentiment, 11 with)
@@ -166,7 +166,7 @@ Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 👤 Author
+## Author
 
 **Angelo**
 UCLL Advanced AI Project 2026
