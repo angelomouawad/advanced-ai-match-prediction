@@ -30,3 +30,6 @@ ipywidgets
 
 # Curve plotting
 matplotlib
+
+# Web app
+flask
