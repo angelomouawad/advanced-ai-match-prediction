@@ -27,3 +27,6 @@ scikit-learn
 notebook
 ipykernel
 ipywidgets
+
+# Curve plotting
+matplotlib
